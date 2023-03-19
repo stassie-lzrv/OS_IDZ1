@@ -97,6 +97,7 @@ $ ./main input11.txt input21.txt output1.txt
 Запуск программы через терминал:
 
 $ gcc 8-1.c -o first
+
 $ gcc 8-2.c -o second
 
 $ ./first input11.txt input21.txt output1.txt
