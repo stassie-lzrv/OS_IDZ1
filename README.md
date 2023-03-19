@@ -17,3 +17,6 @@
 $ gcc -o main 4-2.c
 
 $ ./main input11.txt input21.txt output1.txt
+
+### Результаты тестирования
+![img](/img1.png)
